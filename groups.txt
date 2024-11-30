@@ -72,6 +72,7 @@
     "427": "Qatar",
     "430": "United Arab Emirates",
     "440": "Japan",
+    "442": "DMR CZ",
     "450": "South Korea",
     "454": "Hong Kong",
     "460": "China",
